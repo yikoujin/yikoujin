@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @yikoujin
-- 👀 I’m interested in paragraphy ...
-- 🌱 I’m currently learning diferent languages ...
-- 💞️ I’m looking to collaborate on study...
-- 📫 How to reach me tax 666666...
 
-<!---
-yikoujin/yikoujin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello github guys!!!!!!
+I am so sorry that I am so late to come here!
+I started learning computer science since 2016.
+I am pretty interested in programming!!!!
+Hopefully I can contribute more in Github!!!!
+my email adress:yikoujinwell@gmail.com
+Please contact me if you have any questions.
+Nice to meet you!
+
